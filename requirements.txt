@@ -1,10 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.1+cpu
+torchvision==0.18.1+cpu
 fastapi
 uvicorn[standard]
 pydantic
 python-multipart
 Pillow
-torch==2.2.0+cpu
-torchvision==0.17.0+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
 timm
 gdown
