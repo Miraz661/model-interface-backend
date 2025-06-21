@@ -10,7 +10,7 @@ import os
 app = FastAPI()
 
 # 🔗 Replace this with your actual Google Drive file ID
-GOOGLE_DRIVE_FILE_ID = "YOUR_FILE_ID_HERE"
+GOOGLE_DRIVE_FILE_ID = "1C_duCoG3tF1yJEX9ZUXrwJ2AkPlLXfaa"
 MODEL_PATH = "deit_model.pth"
 class_names = ["Normal", "Pneumonia"]
 
